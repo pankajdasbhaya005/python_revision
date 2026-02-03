@@ -58,8 +58,7 @@ This repo is meant to be **read, edited, and practiced**, not just viewed.
 
 ## 🚀 Next steps
 
-More topics will be added as I continue learning:
-- Loops
+More topics will be added as I continue learning:  
 - Functions
 - Exception handling
 - File handling
