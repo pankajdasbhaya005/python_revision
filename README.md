@@ -21,7 +21,9 @@ Covered topics so far:
 - Tuples and tuple methods
 - Dictionary with important methods
 - Sets (properties, methods, operations)
-- Conditional expressions (if, elif, else, operators)
+- Conditional expressions (if, elif, else, operators)  
+- Python loops including for, while, break, continue, pass and for-else with examples
+
 
 Each file includes:
 - Simple English comments
