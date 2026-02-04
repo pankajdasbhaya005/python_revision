@@ -23,6 +23,8 @@ Covered topics so far:
 - Sets (properties, methods, operations)
 - Conditional expressions (if, elif, else, operators)  
 - Python loops including for, while, break, continue, pass and for-else with examples
+- Added complete and detailed explanation of Python functions with examples, returns, args, kwargs and recursion
+
 
 
 Each file includes:
@@ -59,7 +61,6 @@ This repo is meant to be **read, edited, and practiced**, not just viewed.
 ## 🚀 Next steps
 
 More topics will be added as I continue learning:  
-- Functions
 - Exception handling
 - File handling
 - OOP concepts
