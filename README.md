@@ -25,6 +25,8 @@ Covered topics so far:
 - Python loops including for, while, break, continue, pass and for-else with examples
 - Added complete and detailed explanation of Python functions with examples, returns, args, kwargs and recursion
 - Explanation of Python exception handling with try, except, else, finally and raise
+- Python file handling with read, write, append, with-statement and error handling examples
+
 
 
 
@@ -63,7 +65,6 @@ This repo is meant to be **read, edited, and practiced**, not just viewed.
 ## 🚀 Next steps
 
 More topics will be added as I continue learning:  
-- File handling
 - OOP concepts
 - Small practice programs
 
