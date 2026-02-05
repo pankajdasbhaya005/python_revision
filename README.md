@@ -24,6 +24,8 @@ Covered topics so far:
 - Conditional expressions (if, elif, else, operators)  
 - Python loops including for, while, break, continue, pass and for-else with examples
 - Added complete and detailed explanation of Python functions with examples, returns, args, kwargs and recursion
+- Explanation of Python exception handling with try, except, else, finally and raise
+
 
 
 
