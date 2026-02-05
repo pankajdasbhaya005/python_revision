@@ -63,7 +63,6 @@ This repo is meant to be **read, edited, and practiced**, not just viewed.
 ## 🚀 Next steps
 
 More topics will be added as I continue learning:  
-- Exception handling
 - File handling
 - OOP concepts
 - Small practice programs
