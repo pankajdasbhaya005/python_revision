@@ -27,6 +27,8 @@ Covered topics so far:
 - Explanation of Python exception handling with try, except, else, finally and raise
 - Python file handling with read, write, append, with-statement and error handling examples
 - Added complete beginner-friendly explanation of OOP concepts including classes, objects, constructor, inheritance and polymorphism
+- Started advanced Python by adding clear explanation of modules and packages with examples
+
 
 
 
@@ -64,13 +66,6 @@ This repo is meant to be **read, edited, and practiced**, not just viewed.
 
 ---
 
-## 🚀 Next steps
-
-More topics will be added as I continue learning:  
-- OOP concepts
-- Small practice programs
-
----
 
 ## 📅 Progress style
 
