@@ -28,6 +28,8 @@ Covered topics so far:
 - Python file handling with read, write, append, with-statement and error handling examples
 - Added complete beginner-friendly explanation of OOP concepts including classes, objects, constructor, inheritance and polymorphism
 - Started advanced Python by adding clear explanation of modules and packages with examples
+- Clear explanation of virtual environment and pip usage for real-world Python projects
+
 
 
 
