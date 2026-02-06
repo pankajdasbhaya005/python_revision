@@ -26,6 +26,8 @@ Covered topics so far:
 - Added complete and detailed explanation of Python functions with examples, returns, args, kwargs and recursion
 - Explanation of Python exception handling with try, except, else, finally and raise
 - Python file handling with read, write, append, with-statement and error handling examples
+- Added complete beginner-friendly explanation of OOP concepts including classes, objects, constructor, inheritance and polymorphism
+
 
 
 
