@@ -30,6 +30,8 @@ Covered topics so far:
 - Started advanced Python by adding clear explanation of modules and packages with examples
 - Clear explanation of virtual environment and pip usage for real-world Python projects
 - Detailed explanation of list, set and dictionary comprehensions with beginner friendly examples
+- Clear explanation of iterators and generators with simple examples and memory efficient concepts
+
 
 
 
