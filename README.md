@@ -33,6 +33,9 @@ Covered topics so far:
 - Clear explanation of iterators and generators with simple examples and memory efficient concepts
 - Explanation of Python decorators with real-world examples
 - Added clear and beginner-friendly explanation of Python closures with practical examples
+- Deep and beginner-friendly explanation of Python context managers using with, class-based and contextlib examples
+- Advanced OOP concepts with important dunder methods and practical examples
+
 
 
 
