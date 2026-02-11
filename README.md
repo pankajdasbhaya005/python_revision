@@ -35,6 +35,8 @@ Covered topics so far:
 - Added clear and beginner-friendly explanation of Python closures with practical examples
 - Deep and beginner-friendly explanation of Python context managers using with, class-based and contextlib examples
 - Advanced OOP concepts with important dunder methods and practical examples
+- Examples of important Python standard library modules including datetime, os, sys, json and collections
+
 
 
 
