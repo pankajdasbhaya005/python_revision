@@ -41,20 +41,7 @@ Covered topics so far:
 - Final topic covering Python performance optimization techniques and professional coding best practices
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 Each file includes:
 - Simple English comments
@@ -88,13 +75,6 @@ This repo is meant to be **read, edited, and practiced**, not just viewed.
 ---
 
 
-## 📅 Progress style
+## ✅ Python Learning Phase – Completed
 
-I try to add:
-- One clear topic at a time
-- Clean and meaningful commits
-- Focus on understanding, not speed
 
----
-
-**Learning Python one step at a time.**
