@@ -37,6 +37,8 @@ Covered topics so far:
 - Advanced OOP concepts with important dunder methods and practical examples
 - Examples of important Python standard library modules including datetime, os, sys, json and collections
 - Professional logging and debugging examples with log levels, file logging and exception tracking
+- Added basic unit testing examples using unittest and introduction to pytest
+
 
 
 
